@@ -46,15 +46,15 @@ const data = [
     id: 5,
     image: IMG5,
     title: "JavaScript | HTML | CSS Portfolio",
-    github: "https://github.com/Ade-mir/html-css-js-portfolio-tutorial-2",
+    github: "https://github.com/Naresh-Barua/JavaScript-HTML-CSS-Portfolio",
     demo: "https://nareshbarua.netlify.app/",
   },
   {
     id: 6,
     image: IMG6,
     title: "Movie Finder | ReactJS | CSS",
-    github: "https://github.com/Ade-mir/animated-head-portfolio",
-    demo: "https://animated-head-portfolio.netlify.app/",
+    github: "https://github.com/Naresh-Barua/React_Projects/tree/master/Movie%20Site",
+    demo: "https://github.com/Naresh-Barua/React_Projects/tree/master/Movie%20Site",
   },
 ];
 
