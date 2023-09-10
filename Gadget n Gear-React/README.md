@@ -1,10 +1,11 @@
-# Getting Started with Create React App
-
 # Gadget N Gear React
 
 - Deployed on netlify.com
 - Access the finished website at https://gng.netlify.app/
 
+  
+
+# Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
