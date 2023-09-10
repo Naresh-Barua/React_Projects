@@ -34,14 +34,13 @@ const data = [
   //   brief:
   //     "https://github.com/Ade-mir/javascript-calculator/blob/main/README.md",
   // },
-  // {
-  //   id: 4,
-  //   image: IMG4,
-  //   title: "React Brochure Site",
-  //   github: "https://github.com/Ade-mir/brochure-site",
-  //   demo: "https://deluxe-gumption-ef08f4.netlify.app/",
-  //   brief: "https://github.com/Ade-mir/brochure-site/blob/main/README.md",
-  // },
+  {
+    id: 4,
+    image: IMG4,
+    title: "React Gadget N Gear",
+    github: "https://github.com/Ade-mir/brochure-site",
+    demo: "https://gng.netlify.app//",
+  },
   {
     id: 5,
     image: IMG5,
